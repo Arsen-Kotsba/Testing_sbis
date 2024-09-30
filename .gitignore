@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+venv/
+env/
+*.env
+
+/path_to_your_chromedriver
+/path_to_your_geckodriver
+
+reports/
+logs/
